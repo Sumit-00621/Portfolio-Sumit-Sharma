@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This repository contains the source code for my portfolio, built with **HTML**, **CSS**, and modern responsive design principles.
 
-🔗 **Live Demo:** *https://sumit-00621.github.io/Portfolio-Sumit-Sharma/*
+🔗 **Live Demo:** [*https://sumit-00621.github.io/Portfolio-Sumit-Sharma/*](https://sumit-00621.github.io/Portfolio-Sumit-Sharma/)
 
 ---
 
