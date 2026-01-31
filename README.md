@@ -56,8 +56,3 @@ Feel free to reach out — I’m open to learning opportunities, collaborations,
    ```bash
    git clone https://github.com/Sumit-00621/Portfolio-Sumit-Sharma.git
 
-
----
-
-If you want **badges**, **social links**, or **GitHub stats** added to this README, I can help customize it further! 😊
-::contentReference[oaicite:0]{index=0}
