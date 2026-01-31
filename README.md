@@ -1,43 +1,58 @@
-# Portfolio — Sumit Sharma
+# Sumit Sharma – Frontend Web Developer
 
-Welcome to my personal portfolio website!  
-This repository contains the source code for my portfolio, built with **HTML**, **CSS**, and modern responsive design principles.
+Welcome to my personal portfolio website! 👋  
+This repository contains the code for my portfolio website built using **HTML** and **CSS**, and deployed with **GitHub Pages**.
 
-🔗 **Live Demo:** [*https://sumit-00621.github.io/Portfolio-Sumit-Sharma/*](https://sumit-00621.github.io/Portfolio-Sumit-Sharma/)
-
----
-
-## 🚀 About
-
-I’m **Sumit Sharma** — a passionate frontend developer who loves crafting clean, responsive, and user-friendly web experiences.  
-This portfolio showcases my skills, projects, and contact info so you can quickly get to know my work.
+🔗 **Live Demo:** https://sumit-00621.github.io/Portfolio-Sumit-Sharma/  
+📁 **Repository:** https://github.com/Sumit-00621/Portfolio-Sumit-Sharma.git
 
 ---
 
-## 🛠️ Built With
+## 🧑‍💻 About Me
 
-✔️ HTML  
-✔️ CSS  
-✔️ Responsive Design  
-
-These technologies form the foundation of the portfolio and demonstrate fundamental web development skills. :contentReference[oaicite:1]{index=1}
+Hello! I’m **Sumit Sharma** — a beginner **Frontend Web Developer** passionate about building **clean, responsive, and user-friendly websites**.  
+I enjoy turning ideas into functional web interfaces using **HTML**, **CSS**, and responsive design techniques. I’m actively learning and improving my skills to become a professional web developer.
 
 ---
 
-## 🧠 Features
+## 🛠 Skills
 
-⭐ Modern and clean UI  
-⭐ Responsive layout (works on mobile & desktop)  
-⭐ Sections for About, Skills, Projects, Contact  
-⭐ Easy to customize and extend
+- HTML5  
+- CSS3  
+- Responsive Web Design  
+- Git & GitHub  
+- Clean Code & Best Practices
 
 ---
 
-## 📁 Project Structure
+## 💼 Featured Projects
 
-```text
-Portfolio-Sumit-Sharma/
-├── ASSETS/           # Images & media assets
-├── CSS/              # Stylesheets
-├── HTML/             # HTML pages
-├── README.md         # This file
+Here are a couple of projects showcased on my portfolio:
+
+### ✔️ Portfolio Website
+A fully responsive personal portfolio website showcasing my skills, work, and contact information.  
+📁 Source: This repo  
+🌐 Live Demo: https://sumit-00621.github.io/Portfolio-Sumit-Sharma/
+
+### ✔️ Blog Website
+A responsive **blog website** with clean article layouts and user-friendly design.  
+🔗 Source & Live Demo linked on the portfolio page.
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out — I’m open to learning opportunities, collaborations, and new challenges!
+
+📧 Email: **sumitsharma21082006@gmail.com**  
+📞 Phone: **+91 95570 42108**  
+📍 Location: **Mathura, Uttar Pradesh, India**
+
+---
+
+## 🚀 How to Run This Project Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Sumit-00621/Portfolio-Sumit-Sharma.git
+
